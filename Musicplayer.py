@@ -1,11 +1,9 @@
-#from importlib import import_module
-#from tracemalloc import stop
+
 import pygame
 import tkinter as tkr
 from tkinter.filedialog import askdirectory
 import os
-#from tkinter.ttk import Button
-#from tkinter import Tk,mainloop,TOP
+
 
 musicplayer=tkr.Tk() # it creates an instance of tkinter frame, helps to display the root windo
 musicplayer.title("Music Player")
